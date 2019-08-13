@@ -1,6 +1,6 @@
 # flutter_app_percantage
 
-A new Flutter application.
+A new Flutter application for Rectangular Progress Bar.
 
 ## Getting Started
 
